@@ -43,7 +43,7 @@ The dataset represents inventory, sales, and supply chain operations across mult
 
 | KPI | Description |
 |-----|-------------|
-| **Warehouse Utilization (%)** | Measures the percentage of total warehouse capacity currently in use, helping assess space efficiency and capacity planning. |
+| **Warehouse Utilization** | Measures the total warehouse capacity currently in use, helping assess space efficiency and capacity planning. |
 | **Inventory Turnover Ratio** | Indicates how frequently inventory is sold and replenished during a period, reflecting demand alignment and inventory efficiency. |
 | **Days Sales of Inventory** | Calculates the average number of days inventory is held before being sold, highlighting cash flow and holding cost efficiency. |
 
@@ -87,9 +87,14 @@ This analysis enables businesses to:
 - Strengthen order fulfillment and customer satisfaction  
 
 ---
-### 🖼️ Dashboard Previews
-![Inventory and Supply Chain Management Analysis](Dasnboard_Preview.png)
+### 🖼️ Dashboard Preview
+
+![Inventory and Supply Chain Performance Analysis](Dashboard_Preview.png)
+
+---
+
 ## 🎥 Dashboard Demo Video
 
-Watch the demo here:  
-[Inventory and Supply Chain Management Analysis Demo](Demo.mp4)
+▶️ **Watch the demo here:**  
+[Inventory and Supply Chain Performance Analysis – Demo](Demo.mp4)
+
